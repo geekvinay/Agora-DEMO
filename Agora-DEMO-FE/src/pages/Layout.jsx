@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useEffect, useState } from "react";
 import { useLocation} from "react-router-dom";
 import CallScreen from "./CallScreen";
